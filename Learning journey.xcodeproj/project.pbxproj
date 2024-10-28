@@ -11,6 +11,8 @@
 		91D8ADB72CCE195B00FB1DD6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91D8ADB62CCE195B00FB1DD6 /* ContentView.swift */; };
 		91D8ADB92CCE195C00FB1DD6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91D8ADB82CCE195C00FB1DD6 /* Assets.xcassets */; };
 		91D8ADBC2CCE195C00FB1DD6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91D8ADBB2CCE195C00FB1DD6 /* Preview Assets.xcassets */; };
+		91D8ADC52CCE1AE700FB1DD6 /* learningStreak.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91D8ADC42CCE1AE700FB1DD6 /* learningStreak.swift */; };
+		91D8ADC72CCE1CD200FB1DD6 /* update.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91D8ADC62CCE1CD200FB1DD6 /* update.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		91D8ADB62CCE195B00FB1DD6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		91D8ADB82CCE195C00FB1DD6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		91D8ADBB2CCE195C00FB1DD6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		91D8ADC42CCE1AE700FB1DD6 /* learningStreak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = learningStreak.swift; sourceTree = "<group>"; };
+		91D8ADC62CCE1CD200FB1DD6 /* update.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = update.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				91D8ADB42CCE195B00FB1DD6 /* Learning_journeyApp.swift */,
 				91D8ADB62CCE195B00FB1DD6 /* ContentView.swift */,
+				91D8ADC62CCE1CD200FB1DD6 /* update.swift */,
+				91D8ADC42CCE1AE700FB1DD6 /* learningStreak.swift */,
 				91D8ADB82CCE195C00FB1DD6 /* Assets.xcassets */,
 				91D8ADBA2CCE195C00FB1DD6 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				91D8ADB72CCE195B00FB1DD6 /* ContentView.swift in Sources */,
 				91D8ADB52CCE195B00FB1DD6 /* Learning_journeyApp.swift in Sources */,
+				91D8ADC72CCE1CD200FB1DD6 /* update.swift in Sources */,
+				91D8ADC52CCE1AE700FB1DD6 /* learningStreak.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
